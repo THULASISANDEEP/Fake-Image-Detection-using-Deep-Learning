@@ -42,8 +42,7 @@ After training, the model achieves **high accuracy** in distinguishing real and 
 ## **🖥️ Running the Model in Google Colab**  
 You can try the model **directly in Google Colab** using the notebook created by **Thulasi Sandeep Chemukula**.  
 
-🔗 **Colab Notebook:**  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/Fake-Image-Detection/blob/main/Fake_Image_Detection.ipynb)  
+
 
 ---
 
@@ -80,7 +79,7 @@ python predict.py --image test.jpg
 
 ## **🔗 Credits**  
 🔹 **Author:** Thulasi Sandeep Chemukula  
-🔹 **Contributors:** [Your Name]  
+🔹 **Contributors:** Mohith Sai Balaji 
 🔹 **GitHub Repository:** [Fake Image Detection](https://github.com/yourusername/Fake-Image-Detection)  
 
 ---
