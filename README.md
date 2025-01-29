@@ -80,7 +80,7 @@ python predict.py --image test.jpg
 ## **🔗 Credits**  
 🔹 **Author:** Thulasi Sandeep Chemukula  
 🔹 **Contributors:** Mohith Sai Balaji 
-🔹 **GitHub Repository:** [Fake Image Detection](https://github.com/yourusername/Fake-Image-Detection)  
+🔹 **GitHub Repository:** [Fake Image Detection](https://github.com/THULASISANDEEP/Fake-Image-Detection)  
 
 ---
 
