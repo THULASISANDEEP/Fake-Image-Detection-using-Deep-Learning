@@ -1,4 +1,4 @@
-# **🖼️ Fake Image Detection using Deep Learning**  
+# ** Deep Fake Image Detection using Deep Learning**  
 
 ## **📌 Project Overview**  
 This project aims to classify images as **real or fake** using a **Convolutional Neural Network (CNN)**. The model is trained on a dataset containing authentic and manipulated images to detect **forgeries, AI-generated images, and edited photos**.  
